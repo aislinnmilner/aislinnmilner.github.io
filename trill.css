@@ -1,0 +1,76 @@
+body {
+    margin: 2em 20em;
+    background-color: yellow;
+}
+
+p {
+    font-family: "Roboto";
+    margin: 2em 0;
+}
+
+h1 {
+    font-family: "Roboto";
+    margin: 3em 0;
+}
+
+h3 {
+    font-family: "Roboto";
+}
+
+.trill-logo {
+    width: 20%;
+    display: block;
+    margin: 17em auto 2em;
+}
+
+.intro-p {
+    width: 40%;
+margin: auto;
+text-align: center;
+}
+
+.appstore {
+    width: 20%;
+    display: block;
+    margin: 3em auto;
+}
+
+.intro {
+    margin-bottom: 15em;
+}
+
+.aims {
+    text
+}
+
+.slice1 {
+    width: 40%;
+    float: left;
+    margin: 0 5em 0 0;
+}
+
+
+
+.subscribe {
+width: 30%;
+}
+
+.me {
+width: 40%;
+}
+
+.books-trill {
+width: 80%;
+}
+
+.features {
+width: 55%;
+}
+
+.slice2 {
+width: 20%;
+}
+
+.footer-subscribe {
+width: 50%;
+}
